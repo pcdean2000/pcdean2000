@@ -12,13 +12,13 @@ AI Networking Engineer | Ph.D. Researcher
 
 ### 🔐 Proprietary Projects & Technical Highlights
 
-*Due to strict Non-Disclosure Agreements (NDA) with ITRI and TASA, the source code for my core R&D projects cannot be made public. However, I am happy to discuss the **architecture designs**, **optimization algorithms**, and **system challenges** during interviews.*
+*Due to strict Non-Disclosure Agreements (NDA) with **collaborating research institutes and industry partners**, the source code for my core R&D projects cannot be made public. However, I am happy to discuss the **architecture designs**, **optimization algorithms**, and **system challenges** during interviews.*
 
 #### 🛰️ LEO Satellite Network Simulation Core (C++ / Python)
 > **Role:** Lead Developer & Researcher
 > **Tech Stack:** `C++ (STIL)`, `Python`, `Optimization Algorithms`, `Discrete Event Simulation`
 * **What I built:** A high-performance simulation core developed in **C++** to model large-scale LEO satellite constellations.
-* **Key Challenge:** Solved TASA's multi-stage deployment optimization problem under strict budget and satellite lifespan constraints.
+* **Key Challenge:** Solved a **National-level Space Research Organization's** multi-stage deployment optimization problem under strict budget and satellite lifespan constraints.
 * **Outcome:** Engineered a **"Zero Orbit Adjustment"** strategy, eliminating fuel consumption during phase transitions.
 
 #### 🛡️ AI-Driven Network Security Framework
