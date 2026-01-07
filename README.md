@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 AI Networking Engineer | Ph.D. Researcher
 -----------------------------------------
 
-* 🎓 **Ph.D. Researcher** specializing in **Network Security (XAI)** and **LEO Satellite Communications**.
+* 🎓 **Ph.D. Researcher** specializing in **Network Security (XAI)**, with a keen interest in **LEO Satellite Communications**.
 * 🔭 I’m currently working on **High-Fidelity Satellite Network Simulation** and **Intrusion Detection Systems**.
 * 🌍 I'm based in Taiwan.
 * ✉️ You can contact me at [edgar.kl.hsieh@gmail.com](mailto:edgar.kl.hsieh@gmail.com)
